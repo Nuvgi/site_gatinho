@@ -1,0 +1,18 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cat-image-container {
+    max-width: 100%;
+    max-height: 100%;
+    overflow: hidden;
+}
+
+#cat-image {
+    width: 100%;
+    height: auto;
+}
